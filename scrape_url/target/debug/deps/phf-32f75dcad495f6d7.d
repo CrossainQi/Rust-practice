@@ -1,0 +1,11 @@
+/Users/qipenghao/programming/dev/Rust-practice/scrape_url/target/debug/deps/phf-32f75dcad495f6d7.rmeta: /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/lib.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/map.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/ordered_map.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/ordered_set.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/set.rs
+
+/Users/qipenghao/programming/dev/Rust-practice/scrape_url/target/debug/deps/libphf-32f75dcad495f6d7.rlib: /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/lib.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/map.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/ordered_map.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/ordered_set.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/set.rs
+
+/Users/qipenghao/programming/dev/Rust-practice/scrape_url/target/debug/deps/phf-32f75dcad495f6d7.d: /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/lib.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/map.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/ordered_map.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/ordered_set.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/set.rs
+
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/lib.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/map.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/ordered_map.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/ordered_set.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/phf-0.10.1/src/set.rs:

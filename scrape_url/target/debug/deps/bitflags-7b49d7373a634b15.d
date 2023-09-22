@@ -1,0 +1,11 @@
+/Users/qipenghao/programming/dev/Rust-practice/scrape_url/target/debug/deps/bitflags-7b49d7373a634b15.rmeta: /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs
+
+/Users/qipenghao/programming/dev/Rust-practice/scrape_url/target/debug/deps/bitflags-7b49d7373a634b15.d: /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs /Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs
+
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs:
+/Users/qipenghao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs:
